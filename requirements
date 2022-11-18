@@ -2,4 +2,4 @@ streamlit == 1.15.0
 pandas == 1.4.2
 numpy == 1.23.4
 sklearn == 1.1.1
-plotly.graph_objects == 5.11.0
+plotly == 5.11.0
