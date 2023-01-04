@@ -4,5 +4,5 @@ In this project, Imade use of streamlit to build a Machine Learning application 
   - streamlit == 1.15.0
   - pandas == 1.4.2
   - numpy == 1.23.4
-  - sklearn
+  - scikit-learn
   - plotly == 5.11.0
