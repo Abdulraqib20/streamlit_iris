@@ -13,7 +13,7 @@ rich==12.6.0
 scipy==1.9.3
 semver==2.13.0
 six==1.16.0
-sklearn==1.1.1
+sklearn==1.2.0
 smmap==5.0.0
 streamlit==1.15.0
 temp==2020.7.2
